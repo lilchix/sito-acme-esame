@@ -1,6 +1,6 @@
 .background {
   margin: 0px;
-  background-image: url(web design/sfondo.jpg);
+  background-image: url(web design/sfondo.jpeg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;}
@@ -160,24 +160,19 @@ h2[welcome] {
   padding-top: 10px;
 }
 
-
-.info {
+footer {
   background-color: black;
   color: white;
   width: 100%;
   margin-top: 30px;
+  font-size:12
 }
-.infocontent {
-  max-width: 350px;
-  text-align: center;
-  margin: 0 auto;
-  font-size: 8px;
-  color: white;
+#info {
+  font-size: 12px;
+  margin-bottom:0;
+  text-align:center;
 }
-#divcookie {
-  color: white;
-  position: fixed;
-  bottom: 10px;
-  left: 10px;
-  width: 100px;
-  text-align: center;
+
+#container{
+  height:150px;
+}
