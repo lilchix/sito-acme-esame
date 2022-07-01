@@ -124,6 +124,11 @@ h2[welcome] {
   text-align: center;
   font-size: 24px;
 }
+.informazioni { 
+  color:white;
+  font-size: 20px;
+  text-align:center;
+}
 #sfondo {
   background-color: black;
   border-radius: 15px;
