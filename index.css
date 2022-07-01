@@ -24,7 +24,7 @@ font-family: 'Oswald', sans-serif;
   margin-left: 100px;
 }
 #nome {
-  margin-left:-120px;
+  margin-left:-100px;
   align-self: center;
   position: absolute;
   display: inline-block;
