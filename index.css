@@ -72,9 +72,6 @@ font-family: 'Oswald', sans-serif;
   margin-bottom: 20px;
 }
 
-.material-symbols-outlined {
-  font-size: 70px !important;
-}
 .laurea {
   height: 70px;
   margin-bottom: 20px;
@@ -175,4 +172,44 @@ footer {
 
 #container{
   height:150px;
+}
+.scuole{
+  text-align: center; 
+  font-size:24px; 
+  font-style:italic;
+  color:white
+}
+.top {
+  color: cyan;
+  background-color: black;
+  border-radius: 40px;
+  pudding:0px 0px 5px 5px;
+  position: fixed;
+  bottom: 30px;
+  right: 40px;
+  text-align: center;
+}
+#freccina{
+  cursor: pointer;
+}
+#bottonecookie {
+  position: fixed;
+  bottom: 20px;
+  left: 10px;
+  width: 100px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+#cookie{
+  color: white;
+  font-size:15px;
+  background-color: black;
+  margin: 26px ;
+  width: 200px;
+  padding: 15px;
+  display:none;
+}
+#chiusura{
+  font-size: 15px;
+  margin-left: 160px;
 }
